@@ -1,0 +1,8 @@
+.root{
+    background: teal;
+    height: 100vh;
+}
+.cursor{
+    width: 100px;
+    height: 100px;
+}

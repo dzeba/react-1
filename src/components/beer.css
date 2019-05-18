@@ -1,0 +1,13 @@
+.img{
+    width:100px;
+    height: 200px;
+}
+
+.beer__item{
+    border: 2px solid black;
+    margin-top: 20px;
+    margin-right: 30px;
+}
+.beer__name{
+    font-size: 30px;
+}
